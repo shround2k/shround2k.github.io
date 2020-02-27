@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Java学习困惑</title>
+    <url>/2020/02/27/Java%E5%AD%A6%E4%B9%A0%E5%9B%B0%E6%83%91/</url>
+    <content><![CDATA[<h1 id="Java、JavaEE、JavaSE、Java-Web、JavaScript有什么区别？"><a href="#Java、JavaEE、JavaSE、Java-Web、JavaScript有什么区别？" class="headerlink" title="#Java、JavaEE、JavaSE、Java Web、JavaScript有什么区别？"></a>#Java、JavaEE、JavaSE、Java Web、JavaScript有什么区别？</h1><hr>
+<h2 id="Java分为：JavaSE、JavaEE、JavaME"><a href="#Java分为：JavaSE、JavaEE、JavaME" class="headerlink" title="##Java分为：JavaSE、JavaEE、JavaME"></a>##Java分为：JavaSE、JavaEE、JavaME</h2><p> Java SE是Java平台标准版的简称(Java platform, standard edition)，Java SE 以前称为 J2SE。适用于标准的应用开发，用于开发和部署桌面、服务器以及嵌入设备和实时环境中的Java应用程序。Java SE包括用于开发Java web服务的类库，同时，Java SE为Java EE提供了基础。</p>
+<p> Java EE是Java平台企业版的简称(Java platform, enterprise edition)，以前称为 J2EE。适用于企业级的应用服务开发，用于简化企业解决方案的开发、部署和管理相关的复杂问题的体系结构。Java EE建立于Java SE之上，具有web服务、组件模型、以及通信API等特性，可以用来实现企业级的面向服务体系结构(SOA)和 Web 2.0 应用程序。</p>
+<p> Java ME是Java微版的简称(Java platform, enterprise edition)，以前称为  J2ME，常用于常用于手机上的开发。是一个技术和规范的集合，Java ME为在移动设备和嵌入式设备(比如手机、PDA、电视机顶盒和打印机)上运行的应用程序提供一个健壮且灵活的环境。Java ME 包括灵活的用户界面、健壮的安全模型、许多内置的网络协议以及对可以动态下载的连网和离线应用程序的丰富支持。基于 Java ME 规范的应用程序只需编写一次，就可以用于许多设备，而且可以利用每个设备的本机功能。</p>
+<h2 id="Java-和Java-Web的关系"><a href="#Java-和Java-Web的关系" class="headerlink" title="##Java 和Java Web的关系?"></a>##Java 和Java Web的关系?</h2><p>　　JavaWeb属于JavaEE的领域，用于开发应用程序和网站系统。初级的一般是使用JSP(Java Server Pages)+servlet+Javabean来开发，对大型的网站一般是使用框架来开发的，例如struts，hibernate，spring。在有了Java基础和div+css布局这些基础后，学习Java Web以及后面一系列的ssh框架学习就可成为Java Web工程师。</p>
+<p><a color="red"><strong>Java 和 JavaScript 是两门不同的编程语言</strong>  </a></p>
+<p>一般认为，当时 Netscape 之所以将 LiveScript 命名为 JavaScript，是因为 Java 是当时最流行的编程语言，带有 “Java” 的名字有助于这门新生语言的传播。</p>
+<p> 它们的相同之处包括：</p>
+<p>它们的语法和 C 语言都很相似;<br>它们都是面向对象的(虽然实现的方式略有不同);<br>JavaScript 在设计时参照了 Java 的命名规则;<br>  它们的不同之处包括：</p>
+<p>JavaScript 是动态类型语言，而 Java 是静态类型语言;<br>JavaScript 是弱类型的，Java 属于强类型;<br>JavaScript 的面向对象是基于原型的(prototype-based)实现的，Java 是基于类(class-based)的;<br>　　JavaScript 除了长得和 Java 比较像之外，语言风格相去甚远。JavaScript 在设计时所参考的对象不包括 Java，而包括了像 Self 和 Scheme 这样的语言。</p>
+<h2 id="入门Java先学什么"><a href="#入门Java先学什么" class="headerlink" title="入门Java先学什么?"></a>入门Java先学什么?</h2><p>　　JavaSE是入门Java的基础知识，其余两种是高级Java知识，必须先学习JavaSE才可以学习JavaSE和JavaME中的一种或两种。</p>
+<hr>
+<p><strong>附一张姐姐的照片！加油学习！</strong><a href="https://i.imgur.com/BKRh89V.jpg" data-fancybox="group" data-caption="姐姐！" class="fancybox"><img alt="姐姐！" title="姐姐！" data-src="https://i.imgur.com/BKRh89V.jpg" class="lazyload"></a></p>
+<hr>
+<p>2020/2/27 17:56:16 </p>
+<hr>
+<p>搬运自：<a href="https://cloud.tencent.com/developer/article/1052388" target="_blank" rel="noopener" title="搬运自老九君">https://cloud.tencent.com/developer/article/1052388</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>我的第一篇博客</title>
     <url>/2020/02/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>##第一章<br>我的名字：科比·布莱恩特</p>
